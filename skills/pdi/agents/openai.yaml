@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDI"
+  short_description: "逐项处理审查问题，完成根因分析、修复验证与防复发闭环"
+  default_prompt: "使用 $pdi 逐项处理这份外部问题列表，并完成根因修复、验证与技能回写。"
